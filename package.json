@@ -1,6 +1,6 @@
 {
-	"author":"Abolfazl Abdipour",
 	"name": "fcc-learn-npm-package-json",
+	"author":"Abolfazl Abdipour",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
